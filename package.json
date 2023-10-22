@@ -4,9 +4,3 @@
     "start": "react-scripts start"
      }
 }
-
-{
-  "scripts": {
-    "build-project": "node build-project.js"
-  }
-}
