@@ -4,10 +4,3 @@
     "start": "react-scripts start"
      }
 }
-
-{
-  "license": "MIT",
-  "license": "(MIT or GPL-3.0)",
-  "license": "SEE LICENSE IN LICENSE_FILENAME.txt",
-  "license": "UNLICENSED"
-}
