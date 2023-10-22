@@ -1,6 +1,18 @@
 {
+  "license": "MIT",
+  "license": "(MIT or GPL-3.0)",
+  "license": "SEE LICENSE IN LICENSE_FILENAME.txt",
+  "license": "UNLICENSED"
+}
+
+{
   "scripts": {
     "start": "react-scripts start"
      }
 }
 
+{
+  "scripts": {
+    "build-project": "node build-project.js"
+  }
+}
