@@ -1,3 +1,5 @@
+{
+  "name": "embordini",
 "scripts": {
     "develop": "concurrently \"react-scripts start\" \" nodemon ./src/services/server.js\"",
     "start": "concurrently \"react-scripts start\" \" node ./src/services/server.js\"",
@@ -6,3 +8,4 @@
     "eject": "react-scripts eject",
     "seeds": "node ./src/services/seeds/index.js"
   }
+}
